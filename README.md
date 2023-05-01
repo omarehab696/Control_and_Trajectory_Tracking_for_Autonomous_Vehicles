@@ -3,3 +3,6 @@ In this project, a PID controller is designed in order to perform vehicle trajec
 
 Installation
 Run the following commands to install the starter code in the Udacity Workspace:
+Clone the repository:
+
+$ git clone https://github.com/udacity/nd013-c6-control-starter.git
